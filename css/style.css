@@ -567,11 +567,6 @@
 } */
 
 /*** Footer ***/
-.footer {
-    background: linear-gradient(rgba(3, 27, 78, 0.3), rgba(3, 27, 78, 0.3)),
-        url(../img/footer.png) center center no-repeat;
-    background-size: contain;
-}
 
 @media (min-width: 992px) {
     .footer::after {
