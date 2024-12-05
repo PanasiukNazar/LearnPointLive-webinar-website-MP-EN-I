@@ -221,6 +221,7 @@
     background: linear-gradient(rgba(3, 27, 78, 0.3), rgba(3, 27, 78, 0.3)),
         url(../img/breadcrumb1.jpg) center center no-repeat;
     background-size: cover;
+    min-height: 550px;
 }
 
 .bg2 {
